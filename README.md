@@ -67,11 +67,11 @@ The other explanatory variables were not statistically significant at convention
 
 The results should be interpreted as associations rather than causal effects.
 
-* Diagnostics
-  Variance Inflation Factor all < 5 - No serious multicolliniarity
-  Breush-Pagan Test p-value = 0.0004 - Hetroskedasticity Present
-  Breush-Godfrey Test p-value = 0.8616 - No evidence of Multi Autocorrelations
-  Ramsey  RESET Test p-value = 0.001 - possible model misspecification
+ Diagnostics
+  * Variance Inflation Factor all < 5 - No serious multicolliniarity
+  * Breush-Pagan Test p-value = 0.0004 - Hetroskedasticity Present
+  * Breush-Godfrey Test p-value = 0.8616 - No evidence of Multi Autocorrelations
+  * Ramsey  RESET Test p-value = 0.001 - possible model misspecification
 
 Robust standard errors were therefore used to address heteroskedasticity.
 
@@ -86,8 +86,6 @@ Limitations
 * Possible model specification issues.
 * The project does not produce long-term debt sustainability projections.
 
-*VISUALIZATIONS
-
-
-* Tools used:
+VISUALIZATIONS
+!("TOTAL GDP TREND")("total_debt_trend_over_time.png")
    
