@@ -87,5 +87,6 @@ Limitations
 * The project does not produce long-term debt sustainability projections.
 
 VISUALIZATIONS
+![Total-Debt-Trend-Over-Time](total_debt_trend_over_time.png)
 
    
