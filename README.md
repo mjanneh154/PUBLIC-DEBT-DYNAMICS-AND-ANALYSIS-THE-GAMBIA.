@@ -88,5 +88,9 @@ Limitations
 
 VISUALIZATIONS
 ![Total-Debt-Trend-Over-Time](total_debt_trend_over_time.png)
+![DEBT GDP TREND OVER TIME](debt_gdp_trend.png)
+![PRIMARY BALANCE TO DEBT RATIO](primary_balance_to_debt_ratio.png)
+![GDP GROWTH VS INFLATION](gdp_growth_vs_inflation.png)
+![DEBT GDP VS GDP GROWTH](debt_gdp_vs_gdp_growth.png)
 
    
