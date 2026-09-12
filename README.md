@@ -54,6 +54,7 @@ The main regression estimates the association between changes in the debt-to-GDP
 * Change in exchange rate
   
 STATIONARITY
+
 Before estimating the time-series regression, the variables were examined for stationarity.
 Where variables were found to be non-stationary in levels, appropriate transformations, including first differencing, were applied to obtain stationary series.
 
