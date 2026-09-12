@@ -52,7 +52,13 @@ The main regression estimates the association between changes in the debt-to-GDP
 * Change in government expenditure
 * Change in government revenue
 * Change in exchange rate
+  
+STATIONARITY
+Before estimating the time-series regression, the variables were examined for stationarity.
+Where variables were found to be non-stationary in levels, appropriate transformations, including first differencing, were applied to obtain stationary series.
 
+REGRESSION TABLE 
+![REGRESSION TABLE](Public_debt_dynamic_regression_table.png)
 Heteroskedasticity-robust standard errors were used.
 
 Regression Results
@@ -70,7 +76,7 @@ The results should be interpreted as associations rather than causal effects.
  Diagnostics
   * Variance Inflation Factor all < 5 - No serious multicolliniarity
   * Breush-Pagan Test p-value = 0.0004 - Hetroskedasticity Present
-  * Breush-Godfrey Test p-value = 0.8616 - No evidence of Multi Autocorrelations
+  * Breush-Godfrey Test p-value = 0.8616 - No of first-order serial correlation based on the test
   * Ramsey  RESET Test p-value = 0.001 - possible model misspecification
 
 Robust standard errors were therefore used to address heteroskedasticity.
