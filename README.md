@@ -58,7 +58,7 @@ Before estimating the time-series regression, the variables were examined for st
 Where variables were found to be non-stationary in levels, appropriate transformations, including first differencing, were applied to obtain stationary series.
 
 REGRESSION TABLE 
-![REGRESSION TABLE](Public_debt_dynamic_regression_table.png)
+![REGRESSION TABLE](public_debt_dynamic_regressions_table.png)
 Heteroskedasticity-robust standard errors were used.
 
 Regression Results
